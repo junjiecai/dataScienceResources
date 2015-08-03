@@ -57,14 +57,6 @@ This two-part course is designed to be a fun introduction to the basics of progr
 **课程介绍**  
 This two-part course introduces the basic mathematical and programming principles that underlie much of Computer Science. Students will refine their programming skills as well as learn the basics of creating efficient solutions to common computational problems.
 
-### Principles of Computing (Part 1)
-**提供学校** Rice  
-**开课时间** 5.22  
-**持续时间** 4周  
-**课程地址** https://www.coursera.org/course/principlescomputing1  
-**课程介绍**  
-This two-part course introduces the basic mathematical and programming principles that underlie much of Computer Science. Students will refine their programming skills as well as learn the basics of creating efficient solutions to common computational problems.
-
 ### Algorithmic Thinking Part 2
 **提供学校** Rice  
 **开课时间** 7.11  
