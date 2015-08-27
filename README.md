@@ -551,7 +551,7 @@ This specialization will teach you to understand, analyze, and interpret data fr
 
 ## 数据可视化
 ### Data Visualization
-**提供学校** Harvard  
+**提供学校** University of Illinois at Urbana-Champaign  
 **开课时间** 7.20  
 **持续时间** 4周  
 **课程地址** https://www.coursera.org/course/datavisualization  
